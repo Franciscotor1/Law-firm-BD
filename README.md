@@ -1,4 +1,5 @@
 # Law-firm-BD
-A law firm data base for control. Mysql (SQL)
+Mysql (SQL)
+A law firm data base for control. 
 
 MySQL
